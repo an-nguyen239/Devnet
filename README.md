@@ -57,6 +57,8 @@ An Q Tran
 
 Kiet Tran
 
+An Nguyen
+
 ### Time Dedicated 
 
 2 weeks
